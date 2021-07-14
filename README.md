@@ -18,7 +18,7 @@
 * edit [ /connect/db.php ] with mysql connect creds
 
 # $Todo
- - add login / register 
+ - add login
  - add hcpatcha on search/register/create_paste/login
  - fix token valdation
  - better error messages
