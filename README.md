@@ -30,7 +30,7 @@
 
 # $Credits
 * Nano - (main backend dev)
-* Charge - (coolo html programmer)
+* Charge - (beste html programmer)
 * StrikeGetsBeamed - (second backend dev)
 * Cruel - (coolo html programmer)
 * Kt - (thanks for the css/js/html)
